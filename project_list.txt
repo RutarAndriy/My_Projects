@@ -1,0 +1,4 @@
+MavenOwnArchetype_JavaBeans
+MavenOwnArchetype_JavaLibrary
+MavenOwnArchetype_JavaSE
+
