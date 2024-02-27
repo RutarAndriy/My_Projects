@@ -1,15 +1,12 @@
 • Ігри
 
 • Програми
-
     Picture_Sorter
 
 • Бібліотеки
-
     JDroppablePanel
 
 • Архітипи
-
     MavenOwnArchetype_JavaBeans
     MavenOwnArchetype_JavaLibrary
     MavenOwnArchetype_JavaSE
@@ -19,6 +16,3 @@
 • Інформаційні та навчальні проекти
 
 • Конфігураційні проекти
-
-
-
