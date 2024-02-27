@@ -5,8 +5,8 @@
 ## Зміст  
 
 + Ігри
-+ Програми
-+ Бібліотеки
++ <a href="#applications">Програми</a>
++ <a href="#libraries">Бібліотеки</a>
 + <a href="#archetype">Архітипи</a>
 + Web-проекти
 + Інформаційні та навчальні проекти
@@ -41,6 +41,32 @@
     </thead>
     <!-- Тіло таблиці -->
     <tbody align="center">
+            <!-- Програми -->
+        <tr>
+            <td colspan="6"><i><b><a name="applications"></a>Програми</b></i></td>
+        </tr>
+            <!-- Picture_Sorter -->
+        <tr>
+            <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/Picture_Sorter">Picture_Sorter</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+            <td align="left">Програма для сортування зображень</td>
+            <td><img width="22" valign="middle" title="В розробці" src="/icons/dev.png"></td>
+            <td><a href="https://github.com/RutarAndriy/Picture_Sorter/releases"><code>...</code></a></td>
+        </tr>
+            <!-- Бібліотеки -->
+        <tr>
+            <td colspan="6"><i><b><a name="libraries"></a>Бібліотеки</b></i></td>
+        </tr>
+            <!-- JDroppablePanel -->
+        <tr>
+            <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/JDroppablePanel">JDroppablePanel</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+            <td align="left">Бібліотека реалізує <a href="https://docs.oracle.com/javase/8/docs/api/javax/swing/JPanel.html">JPanel</a>-компонент, який може обробляти <a href="https://uk.wikipedia.org/wiki/Drag-and-drop">DaD</a> події</td>
+            <td><img width="22" valign="middle" title="Бібліотека" src="/icons/lib.png"></td>
+            <td><a href="https://github.com/RutarAndriy/JDroppablePanel/releases"><code>v1.1.0</code></a></td>
+        </tr>
             <!-- Архітипи -->
         <tr>
             <td colspan="6"><i><b><a name="archetype"></a>Архітипи</b></i></td>
