@@ -1,68 +1,76 @@
 # My Projects
 
-Список моїх [публічних](#публічні-проекти) та [приватних](#приватні-проекти) проектів
+Список моїх публічних та приватних проектів
+
+## Зміст  
+
++ Ігри
++ Програми
++ Бібліотеки
++ Архітипи
++ Web-проекти
++ Інформаційні та навчальні проекти
++ Конфігураційні проекти
+
+## Умовні позначення
 
 | Стан | Короткий опис |
 | :-:  |      ---      |
-| <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | Проект простоює. В найближчий час розробка проекту не передбачається. |
-| <img width="22" valign="middle" title="В розробці" src="/icons/dev.png"> | Проект активно розробляється. Добавляється новий функціонал та виправляються баги. |
-| <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | Проект завершено. Доступна релізна версія програми. |
-| <img width="22" valign="middle" title="Інформаційний/навчальний проект" src="/icons/info.png"> | Інформаційний або навчальний проект. Релізи відсутні. |
-| <img width="22" valign="middle" title="Сайт" src="/icons/web.png"> | Проект-сайт. Релізи відсутні. |
-| <img width="22" valign="middle" title="Конфігураційний проект" src="/icons/config.png"> | Конфігураційний проект. Релізи відсутні. |
+| <img width="22" valign="middle" title="В розробці" src="/icons/dev.png"> | Проект знаходиться в розробці |
+| <img width="22" valign="middle" title="В розробці" src="/icons/dev.png"> | Гра. Доступна релізна версія |
+| <img width="22" valign="middle" title="В розробці" src="/icons/dev.png"> | Програма. Доступна релізна версія |
+| <img width="22" valign="middle" title="В розробці" src="/icons/dev.png"> | Бібліотека. Доступна релізна версія |
+| <img width="22" valign="middle" title="В розробці" src="/icons/dev.png"> | Архітип. Доступна релізна версія |
+| <img width="22" valign="middle" title="Сайт" src="/icons/web.png"> | Web-проект. Релізи відсутні |
+| <img width="22" valign="middle" title="Інформаційний/навчальний проект" src="/icons/info.png"> | Інформаційний або навчальний проект. Релізи відсутні |
+| <img width="22" valign="middle" title="Конфігураційний проект" src="/icons/config.png"> | Конфігураційний проект. Релізи відсутні |
 
-## Публічні проекти
+## Проекти
 
-| Назва проекту | Мова | Короткий опис | Стан | Реліз |
-|      ---      | :-:  |      ---      | :-:  |  :-:  |
-| [Android_UI_Testing](https://github.com/RutarAndriy/Android_UI_Testing) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Приклад тестування UI-елементів Android | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | - |
-| [Apfloat_Point](https://github.com/RutarAndriy/Apfloat_Point) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Бібліотека для розширення функціоналу бібліотеки [Apfloat](http://www.apfloat.org/apfloat_java) | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v1.0.0`](https://github.com/RutarAndriy/Apfloat_Point/releases) |
-| [Arduino_Learning](https://github.com/RutarAndriy/Arduino_Learning) | <img valign="middle" src="https://img.shields.io/badge/-c++-F34B7D"> | Вивчення платформи [Arduino](https://www.arduino.cc) на простих прикладах | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | - |
-| [Areas_Calculator](https://github.com/RutarAndriy/Areas_Calculator) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для розрахунку площі ділянки за її координатами | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Bash_Learning](https://github.com/RutarAndriy/Bash_Learning) | <img valign="middle" src="https://img.shields.io/badge/-shell-89E051"> | Вивчення командної оболонки [Bash](https://uk.wikipedia.org/wiki/Bash) | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | - |
-| [Coordinate_Recalculating](https://github.com/RutarAndriy/Coordinate_Recalculating) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Бібліотека для перерахунку координат за декількома спільними звязуючими точками | <img width="22" valign="middle" title="В розробці" src="/icons/dev.png"> | - |
-| [Date_Calculator](https://github.com/RutarAndriy/Date_Calculator) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для розрахунку часу, який минув від визначеної дати | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Easy_MIDI](https://github.com/RutarAndriy/Easy_MIDI) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Бібліотека для простого відтворення MIDI-послідовностей | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v1.0.0`](https://github.com/RutarAndriy/Easy_MIDI/releases) |
-| [Enciphering](https://github.com/RutarAndriy/Enciphering) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Бібліотека для шифрування/розшифрування даних | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Flashlight_Widget](https://github.com/RutarAndriy/Flashlight_Widget) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Простий віджет - ліхтарик | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Flood_it_3D](https://github.com/RutarAndriy/Flood_it_3D) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Логічна гра [Flood-It](https://unixpapa.com/floodit) у 3D виконанні | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v4.1.0`](https://github.com/RutarAndriy/Flood_it_3D/releases) |
-| [JavaBeans](https://github.com/RutarAndriy/JavaBeans) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Приклад написання java-класів, які відповідають специфікації [JavaBeans](https://uk.wikipedia.org/wiki/JavaBeans) | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v1.0.1`](https://github.com/RutarAndriy/JavaBeans/releases) |
-| [Java_Multithreading_Learning](https://github.com/RutarAndriy/Java_Multithreading_Learning) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Вивчення [багатопоточності](https://uk.wikipedia.org/wiki/Багатонитковість) в Java | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | - |
-| [JFileChooser_Locale](https://github.com/RutarAndriy/JFileChooser_Locale) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Бібліотека для локалізації [JFileChoser'а](https://docs.oracle.com/javase/8/docs/api/javax/swing/JFileChooser.html) | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v1.0.0`](https://github.com/RutarAndriy/JFileChooser_Locale/releases) |
-| [JHintTextField](https://github.com/RutarAndriy/JHintTextField) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Бібліотека для розширення функціоналу компонента [JTextField](https://docs.oracle.com/javase/8/docs/api/javax/swing/JTextField.html) | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v1.0.0`](https://github.com/RutarAndriy/JHintTextField/releases) |
-| [JMessenger](https://github.com/RutarAndriy/JMessenger) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Бібліотека для простого відображення діалогових вікон | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v1.0.0`](https://github.com/RutarAndriy/JMessenger/releases) |
-| [Kuongshun_Learning_Kit](https://github.com/RutarAndriy/Kuongshun_Learning_Kit) | <img valign="middle" src="https://img.shields.io/badge/-c++-F34B7D"> | Вивчення платформи [Arduino](https://www.arduino.cc) за допомогою початкового набору [Kuongshun Learning Kit](https://kuongshun.com/products/for-arduino-starter-kit-upgrade-version) | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | - |
-| [Learning](https://github.com/RutarAndriy/Learning) | - | Список моїх навчальних проектів | <img width="22" valign="middle" title="Інформаційний проект" src="/icons/info.png"> | - |
-| [LG_d410_skin](https://github.com/RutarAndriy/LG_d410_skin) | - | Графічна оболонка телефону LG d410 для емулятора Android | <img width="22" valign="middle" title="Конфігураційний проект" src="/icons/config.png"> | + |
-| [Linux_Tricks](https://github.com/RutarAndriy/Linux_Tricks) | <img valign="middle" src="https://img.shields.io/badge/-shell-89E051"> | Збірка корисних скриптів для операційних систем [сімейства Linux](https://uk.wikipedia.org/wiki/Linux) | <img width="22" valign="middle" title="Конфігураційний проект" src="/icons/config.png"> | - |
-| [Maven_Learning](https://github.com/RutarAndriy/Maven_Learning) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Вивчення системи автоматизації [Maven](https://maven.apache.org) | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | - |
-| [Maze](https://github.com/RutarAndriy/Maze) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Бібліотека для генерування/вирішення двовимірних [лабіринтів](https://uk.wikipedia.org/wiki/Лабіринт) | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Patriots_Ukraine](https://github.com/RutarAndriy/Patriots_Ukraine) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для відображення новин із сайту [Патріоти України](http://patrioty.org.ua) | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v3.6.1`](https://github.com/RutarAndriy/Patriots_Ukraine/releases) |
-| [Programmer_Quotes](https://github.com/RutarAndriy/Programmer_Quotes) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для відображення цитат програміста | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Quadcopter](https://github.com/RutarAndriy/Quadcopter) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Проста гра про [Квадрокоптер](https://uk.wikipedia.org/wiki/Мультикоптер) | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Ruby_Learning](https://github.com/RutarAndriy/Ruby_Learning) | <img valign="middle" src="https://img.shields.io/badge/-ruby-701516"> | Вивчення мови програмування [Ruby](https://uk.wikipedia.org/wiki/Ruby) | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | + |
-| [RutarAndriy](https://github.com/RutarAndriy/RutarAndriy) | - | Конфігурація [моєї сторінки профілю GitHub](https://github.com/RutarAndriy) | <img width="22" valign="middle" title="Конфігураційний проект" src="/icons/config.png"> | + |
-| [RutarAndriy.github.io](https://github.com/RutarAndriy/RutarAndriy.github.io) | <img valign="middle" src="https://img.shields.io/badge/-web-353535"> | Мій сайт на домені [github.io](https://pages.github.com) | <img width="22" valign="middle" title="Сайт" src="/icons/web.png"> | - |
-| [Screensaver](https://github.com/RutarAndriy/Screensaver) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Простий [зберігач екрану](https://uk.wikipedia.org/wiki/Скрінсейвер) | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Search_App](https://github.com/RutarAndriy/Search_App) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для пошуку файлів | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Simpsons](https://github.com/RutarAndriy/Simpsons) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Розважальна програма за мотивами мультсеріалу [Сімпсони](https://uk.wikipedia.org/wiki/Сімпсони) | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Site_Creation_Learning](https://github.com/RutarAndriy/Site_Creation_Learning) | <img valign="middle" src="https://img.shields.io/badge/-web-353535"> | Вивчення основ створення сайтів на простих прикладах | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | + |
-| [Virtual_Mouse](https://github.com/RutarAndriy/Virtual_Mouse) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для емуляції миші та клавіатури | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Warcraft_III_Launcher](https://github.com/RutarAndriy/Warcraft_III_Launcher) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Лаунчер для гри [Warcraft III](https://uk.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos) | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Web_Applications_Learning](https://github.com/RutarAndriy/Web_Applications_Learning) | <img valign="middle" src="https://img.shields.io/badge/-web-353535"> | Вивчення основ створення веб-програми | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | + |
-
-## Приватні проекти
-
-| Назва проекту | Мова | Короткий опис | Стан | Реліз |
-|      ---      | :-:  |      ---      | :-:  |  :-:  |
-| [Bible_Downloader](https://github.com/RutarAndriy/Bible_Downloader) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для завантажування перекладів [Біблії](https://uk.wikipedia.org/wiki/Біблія) з інтернету | <img width="22" valign="middle" title="В розробці" src="/icons/dev.png"> | - |
-| [Digitals_Scripts](https://github.com/RutarAndriy/Digitals_Scripts) | - | Збірка моїх бібліотек, скриптів та панелей для програми [Delta Digitals](https://www.vinmap.net) | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [Drop_and_Bucket](https://github.com/RutarAndriy/Drop_and_Bucket) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Приклад написання простої гри за допомогою фреймворка [LibGDX](https://libgdx.com) | <img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"> | - |
-| [Holy_Bible](https://github.com/RutarAndriy/Holy_Bible) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | [Біблія](https://uk.wikipedia.org/wiki/Біблія), з можливістю паралельного читання декількох перекладів | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [IDB_Exporter](https://github.com/RutarAndriy/IDB_Exporter) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для експортування зображень у формат `*.idb` | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v1.1.0`](https://github.com/RutarAndriy/IDB_Exporter/releases) |
-| [Jar_Downloader](https://github.com/RutarAndriy/Jar_Downloader) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Програма для скачування [JavaME](https://uk.wikipedia.org/wiki/Java_Platform,_Micro_Edition) *.jar файлів | <img width="22" valign="middle" title="Простоює" src="/icons/stagn.png"> | - |
-| [MavenOwnArchetype_JavaSE](https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE) | <img valign="middle" src="https://img.shields.io/badge/-java-B07219"> | Мій власний архітип для генерування [JavaSE](https://uk.wikipedia.org/wiki/Java_SE) проектів | <img width="22" valign="middle" title="Завершено" src="/icons/done.png"> | [`v1.0.0`](https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE/releases) |
-| [My_Projects](https://github.com/RutarAndriy/My_Projects) | - | Список моїх проектів | <img width="22" valign="middle" title="Інформаційний проект" src="/icons/info.png"> | + |
-| [My_Sight](https://github.com/RutarAndriy/My_Sight) | - | Інформація про динаміку мого зору | <img width="22" valign="middle" title="Інформаційний проект" src="/icons/info.png"> | + |
-| [Programming_Workspace](https://github.com/RutarAndriy/Programming_Workspace) | - | Мій робочий простір для програмування | <img width="22" valign="middle" title="Конфігураційний проект" src="/icons/config.png"> | + |
-
+<table>
+    <!-- Заголовок -->
+    <thead>
+        <tr>
+            <th>...</th>
+            <th>Назва проекту</th>
+            <th>Мова</th>
+            <th>Короткий опис</th>
+            <th>Стан</th>
+            <th>Реліз</th>
+        </tr>
+    </thead>
+    <!-- Тіло таблиці -->
+    <tbody align="center">
+            <!-- Архітипи -->
+        <tr>
+            <td colspan="6">Архітипи</td>
+        </tr>
+            <!-- MavenOwnArchetype_JavaBeans -->
+        <tr>
+            <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans">MavenOwnArchetype_JavaBeans</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+            <td align="left">Мій власний архітип для генерування графічних JavaBeans-компонентів</td>
+            <td><img width="22" valign="middle" title="Завершено" src="/icons/done.png"></td>
+            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans/releases"><code>v2.1.0</code></a></td>
+        </tr>
+            <!-- MavenOwnArchetype_JavaLibrary -->
+        <tr>
+            <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaLibrary">MavenOwnArchetype_JavaLibrary</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+            <td align="left">Мій власний архітип для генерування Java-бібліотек</td>
+            <td><img width="22" valign="middle" title="Завершено" src="/icons/dev.png"></td>
+            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaLibrary/releases"><code>...</code></a></td>
+        </tr>
+            <!-- MavenOwnArchetype_JavaSE -->
+        <tr>
+            <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE">MavenOwnArchetype_JavaSE</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+            <td align="left">Мій власний архітип для генерування <a href="https://uk.wikipedia.org/wiki/Java_SE">JavaSE</a> проектів</td>
+            <td><img width="22" valign="middle" title="Завершено" src="/icons/done.png"></td>
+            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE/releases"><code>v2.0.3</code></a></td>
+        </tr>
+    </tbody>
+</table>
