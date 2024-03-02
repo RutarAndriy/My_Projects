@@ -10,7 +10,7 @@
 + <a href="#archetype">Архітипи</a>
 + Web-проекти
 + <a href="#info_and_learning">Інформаційні та навчальні проекти</a>
-+ Конфігураційні проекти
++ <a href="#config">Конфігураційні проекти</a>
 
 ## Умовні позначення
 
@@ -107,8 +107,21 @@
             <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/Ruby_Learning">Ruby_Learning</a></td>
             <td><img valign="middle" src="https://img.shields.io/badge/-ruby-701516"></td>
-            <td align="left">Мій перший серйозний проект на GitHub - вивчення <a href="https://uk.wikipedia.org/wiki/Ruby">Ruby</a></td>
+            <td align="left">Мій перший серйозний проект на GitHub – вивчення <a href="https://uk.wikipedia.org/wiki/Ruby">Ruby</a></td>
             <td><img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"></td>
+            <td>...</td>
+        </tr>
+            <!-- Конфігураційні проекти -->
+        <tr>
+            <td colspan="6"><i><b><a name="config"></a>Конфігураційні проекти</b></i></td>
+        </tr>
+            <!-- Programming_Workspace -->
+        <tr>
+            <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/Programming_Workspace">Programming_Workspace</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-. . .-333333"></td>
+            <td align="left">Налаштування робочого середовища для моїх проектів</td>
+            <td><img width="22" valign="middle" title="Конфігураційний проект" src="/icons/config.png"></td>
             <td>...</td>
         </tr>
     </tbody>
