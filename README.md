@@ -9,7 +9,7 @@
 + <a href="#libraries">Бібліотеки</a>
 + <a href="#archetype">Архітипи</a>
 + Web-проекти
-+ <a href="info_and_learning">Інформаційні та навчальні проекти</a>
++ <a href="infoAndLearning">Інформаційні та навчальні проекти</a>
 + Конфігураційні проекти
 
 ## Умовні позначення
@@ -100,7 +100,7 @@
         </tr>
             <!-- Інформаційні та навчальні проекти -->
         <tr>
-            <td colspan="6"><i><b><a name="info_and_learning"></a>Інформаційні та навчальні проекти</b></i></td>
+            <td colspan="6"><i><b><a name="infoAndLearning"></a>Інформаційні та навчальні проекти</b></i></td>
         </tr>
             <!-- Ruby_Learning -->
         <tr>
