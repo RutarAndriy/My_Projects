@@ -9,7 +9,7 @@
 + <a href="#libraries">Бібліотеки</a>
 + <a href="#archetype">Архітипи</a>
 + Web-проекти
-+ Інформаційні та навчальні проекти
++ <a href="info_and_learning">Інформаційні та навчальні проекти</a>
 + Конфігураційні проекти
 
 ## Умовні позначення
@@ -97,6 +97,19 @@
             <td align="left">Мій власний архітип для генерування</br><a href="https://uk.wikipedia.org/wiki/Java_SE">JavaSE</a>-проектів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE/releases"><code>v3.0.0</code></a></td>
+        </tr>
+            <!-- Інформаційні та навчальні проекти -->
+        <tr>
+            <td colspan="6"><i><b><a name="info_and_learning"></a>Інформаційні та навчальні проекти</b></i></td>
+        </tr>
+            <!-- Ruby_Learning -->
+        <tr>
+            <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/Ruby_Learning">Ruby_Learning</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-ruby-701516"></td>
+            <td align="left">Мій перший серйозний проект на GitHub - вивчення <a href="https://uk.wikipedia.org/wiki/Ruby">Ruby</a></td>
+            <td><img width="22" valign="middle" title="Навчальний проект" src="/icons/info.png"></td>
+            <td>...</td>
         </tr>
     </tbody>
 </table>
