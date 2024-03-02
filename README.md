@@ -76,7 +76,7 @@
             <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans">MavenOwnArchetype<br/>JavaBeans</a></td>
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-            <td align="left">Мій власний архітип для генерування графічних <a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонентів</td>
+            <td align="left">Мій власний архітип для генерування графічних</br><a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонентів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans/releases"><code>v3.0.0</code></a></td>
         </tr>
@@ -85,7 +85,7 @@
             <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaLibrary">MavenOwnArchetype<br/>JavaLibrary</a></td>
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-            <td align="left">Мій власний архітип для генерування Java-бібліотек</td>
+            <td align="left">Мій власний архітип для генерування</br>Java-бібліотек</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaLibrary/releases"><code>v3.0.0</code></a></td>
         </tr>
@@ -94,7 +94,7 @@
             <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE">MavenOwnArchetype<br/>JavaSE</a></td>
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-            <td align="left">Мій власний архітип для генерування <a href="https://uk.wikipedia.org/wiki/Java_SE">JavaSE</a> проектів</td>
+            <td align="left">Мій власний архітип для генерування</br><a href="https://uk.wikipedia.org/wiki/Java_SE">JavaSE</a>-проектів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE/releases"><code>v3.0.0</code></a></td>
         </tr>
