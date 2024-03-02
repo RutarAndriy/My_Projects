@@ -43,7 +43,7 @@
     <tbody align="center">
             <!-- Програми -->
         <tr>
-            <td colspan="6"><i><b><a name="applications"></a>Програми</b></i></td>
+            <td name="applications" colspan="6"><i><b>Програми</b></i></td>
         </tr>
             <!-- Picture_Sorter -->
         <tr>
@@ -56,7 +56,7 @@
         </tr>
             <!-- Бібліотеки -->
         <tr>
-            <td colspan="6"><i><b><a name="libraries"></a>Бібліотеки</b></i></td>
+            <td name="libraries" colspan="6"><i><b>Бібліотеки</b></i></td>
         </tr>
             <!-- JDroppablePanel -->
         <tr>
@@ -69,7 +69,7 @@
         </tr>
             <!-- Архітипи -->
         <tr>
-            <td colspan="6"><i><b><a name="archetype"></a>Архітипи</b></i></td>
+            <td name="archetype" colspan="6"><i><b>Архітипи</b></i></td>
         </tr>
             <!-- MavenOwnArchetype_JavaBeans -->
         <tr>
@@ -100,7 +100,7 @@
         </tr>
             <!-- Інформаційні та навчальні проекти -->
         <tr>
-            <td colspan="6"><i><b><a name="info_and_learning"></a>Інформаційні та навчальні проекти</b></i></td>
+            <td name="info_and_learning" colspan="6"><i><b>Інформаційні та навчальні проекти</b></i></td>
         </tr>
             <!-- Ruby_Learning -->
         <tr>
@@ -113,7 +113,7 @@
         </tr>
             <!-- Конфігураційні проекти -->
         <tr>
-            <td colspan="6"><i><b><a name="config"></a>Конфігураційні проекти</b></i></td>
+            <td name="config" colspan="6"><i><b>Конфігураційні проекти</b></i></td>
         </tr>
             <!-- Programming_Workspace -->
         <tr>
