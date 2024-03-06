@@ -65,7 +65,7 @@
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
             <td align="left">Бібліотека реалізує <a href="https://docs.oracle.com/javase/8/docs/api/javax/swing/JPanel.html">JPanel</a>-компонент, який може обробляти <a href="https://uk.wikipedia.org/wiki/Drag-and-drop">DaD</a> події</td>
             <td><img width="22" valign="middle" title="Бібліотека" src="/icons/lib.png"></td>
-            <td><a href="https://github.com/RutarAndriy/JDroppablePanel/releases"><code>v1.1.0</code></a></td>
+            <td><a href="https://github.com/RutarAndriy/JDroppablePanel/releases"><code>v1.2.0</code></a></td>
         </tr>
             <!-- Архітипи -->
         <tr>
