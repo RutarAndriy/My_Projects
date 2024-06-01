@@ -52,7 +52,7 @@
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
             <td align="left">Програма для сортування зображень</td>
             <td><img width="22" valign="middle" title="В розробці" src="/icons/dev.png"></td>
-            <td><a href="https://github.com/RutarAndriy/Picture_Sorter/releases"><code>...</code></a></td>
+            <td>...</td>
         </tr>
             <!-- Бібліотеки -->
         <tr>
@@ -63,10 +63,21 @@
             <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/JDroppablePanel">JDroppablePanel</a></td>
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-            <td align="left">Бібліотека реалізує <a href="https://docs.oracle.com/javase/8/docs/api/javax/swing/JPanel.html">JPanel</a>-компонент, який може обробляти <a href="https://uk.wikipedia.org/wiki/Drag-and-drop">DaD</a> події</td>
+            <td align="left">Бібліотека реалізує <a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонент, який може обробляти <a href="https://uk.wikipedia.org/wiki/Drag-and-drop">DaD</a> події</td>
             <td><img width="22" valign="middle" title="Бібліотека" src="/icons/lib.png"></td>
-            <td><a href="https://github.com/RutarAndriy/JDroppablePanel/releases"><code>v1.2.0</code></a></td>
+            <td><a href="https://github.com/RutarAndriy/JDroppablePanel/releases">
+                <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JDroppablePanel?label=%20&color=333333"></a></td>
         </tr>
+            <!-- JImageView -->
+        <tr>
+            <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/JImageView">JImageView</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+            <td align="left">Бібліотека реалізує <a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонент для відображення растрових зображень</td>
+            <td><img width="22" valign="middle" title="Бібліотека" src="/icons/lib.png"></td>
+            <td><a href="https://github.com/RutarAndriy/JImageView/releases">
+                <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JImageView?label=%20&color=333333"></a></td>
+        </tr>        
             <!-- Архітипи -->
         <tr>
             <td name="archetype" colspan="6"><i><b>Архітипи</b></i></td>
@@ -78,7 +89,8 @@
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
             <td align="left">Мій власний архітип для генерування графічних</br><a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонентів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
-            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans/releases"><code>v3.1.1</code></a></td>
+            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans/releases">
+                <img valign="middle" src="https://img.shields.io/badge/-v4.1.1-333333"></a></td>
         </tr>
             <!-- MavenOwnArchetype_JavaLibrary -->
         <tr>
@@ -87,7 +99,8 @@
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
             <td align="left">Мій власний архітип для генерування</br>Java-бібліотек</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
-            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaLibrary/releases"><code>v3.1.1</code></a></td>
+            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaLibrary/releases">
+                <img valign="middle" src="https://img.shields.io/badge/-v4.1.0-333333"></a></td>
         </tr>
             <!-- MavenOwnArchetype_JavaSE -->
         <tr>
@@ -96,7 +109,8 @@
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
             <td align="left">Мій власний архітип для генерування</br><a href="https://uk.wikipedia.org/wiki/Java_SE">JavaSE</a>-проектів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
-            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE/releases"><code>v3.1.0</code></a></td>
+            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE/releases">
+                <img valign="middle" src="https://img.shields.io/badge/-v4.1.0-333333"></a></td>
         </tr>
             <!-- Інформаційні та навчальні проекти -->
         <tr>
