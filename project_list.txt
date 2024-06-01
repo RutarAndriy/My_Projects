@@ -5,6 +5,7 @@
 
 • Бібліотеки
     JDroppablePanel
+    JImageView
 
 • Архітипи
     MavenOwnArchetype_JavaBeans
