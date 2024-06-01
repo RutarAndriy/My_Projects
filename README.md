@@ -87,7 +87,7 @@
             <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans">MavenOwnArchetype<br/>JavaBeans</a></td>
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-            <td align="left">Мій власний архітип для генерування графічних</br><a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонентів</td>
+            <td align="left">Мій власний архітип для генерування графічних <a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонентів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans/releases">
                 <img valign="middle" src="https://img.shields.io/badge/-v4.1.1-333333"></a></td>
