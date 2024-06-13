@@ -68,6 +68,16 @@
             <td><a href="https://github.com/RutarAndriy/JDroppablePanel/releases">
                 <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JDroppablePanel?label=%20&color=333333"></a></td>
         </tr>
+            <!-- JHintedTextField -->
+        <tr>
+            <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/JHintedTextField">JHintedTextField</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+            <td align="left">Бібліотека реалізує <a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонент, який є покращеною версією стандартного <a href="https://docs.oracle.com/javase/7/docs/api/javax/swing/JTextField.html">JTextField</a>-компонента</td>
+            <td><img width="22" valign="middle" title="Бібліотека" src="/icons/lib.png"></td>
+            <td><a href="https://github.com/RutarAndriy/JHintedTextField/releases">
+                <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JHintedTextField?label=%20&color=333333"></a></td>
+        </tr>
             <!-- JImageView -->
         <tr>
             <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
@@ -82,6 +92,16 @@
         <tr>
             <td name="archetype" colspan="6"><i><b>Архітипи</b></i></td>
         </tr>
+            <!-- MavenOwnArchetype_Digitals -->
+        <tr>
+            <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
+            <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_Digitals">MavenOwnArchetype<br/>Digitals</a></td>
+            <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+            <td align="left">Мій власний архітип для генерування функціональних вікон для dsf-скриптів</td>
+            <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
+            <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_Digitals/releases">
+                <img valign="middle" src="https://img.shields.io/badge/-v0.0.1-333333"></a></td>
+        </tr>
             <!-- MavenOwnArchetype_JavaBeans -->
         <tr>
             <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
@@ -90,7 +110,7 @@
             <td align="left">Мій власний архітип для генерування графічних <a href="https://uk.wikipedia.org/wiki/JavaBeans">JavaBeans</a>-компонентів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaBeans/releases">
-                <img valign="middle" src="https://img.shields.io/badge/-v4.1.1-333333"></a></td>
+                <img valign="middle" src="https://img.shields.io/badge/-v4.2.0-333333"></a></td>
         </tr>
             <!-- MavenOwnArchetype_JavaLibrary -->
         <tr>
