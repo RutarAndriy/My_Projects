@@ -5,9 +5,11 @@
 
 • Бібліотеки
     JDroppablePanel
+    JHintedTextField
     JImageView
 
 • Архітипи
+    MavenOwnArchetype_Digitals
     MavenOwnArchetype_JavaBeans
     MavenOwnArchetype_JavaLibrary
     MavenOwnArchetype_JavaSE
