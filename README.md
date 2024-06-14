@@ -100,7 +100,7 @@
             <td align="left">Мій власний архітип для генерування функціональних вікон для dsf-скриптів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_Digitals/releases">
-                <img valign="middle" src="https://img.shields.io/badge/-v0.0.1-333333"></a></td>
+                <img valign="middle" src="https://img.shields.io/badge/-v1.0.0-333333"></a></td>
         </tr>
             <!-- MavenOwnArchetype_JavaBeans -->
         <tr>
