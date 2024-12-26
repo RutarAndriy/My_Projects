@@ -4,11 +4,11 @@
 
 ## Зміст  
 
-+ Ігри
++ <a href="#games">Ігри</a>
 + <a href="#applications">Програми</a>
 + <a href="#libraries">Бібліотеки</a>
-+ <a href="#archetype">Архітипи</a>
-+ Web-проекти
++ <a href="#archetypes">Архітипи</a>
++ <a href="#web">Web-проекти</a>
 + <a href="#info_and_learning">Інформаційні та навчальні проекти</a>
 + <a href="#config">Конфігураційні проекти</a>
 
@@ -41,6 +41,10 @@
     </thead>
     <!-- Тіло таблиці -->
     <tbody align="center">
+            <!-- Ігри -->
+        <tr>
+            <!-- <td name="games" colspan="6"><i><b>Ігри</b></i></td> -->
+        </tr>
             <!-- Програми -->
         <tr>
             <td name="applications" colspan="6"><i><b>Програми</b></i></td>
@@ -90,7 +94,7 @@
         </tr>        
             <!-- Архітипи -->
         <tr>
-            <td name="archetype" colspan="6"><i><b>Архітипи</b></i></td>
+            <td name="archetypes" colspan="6"><i><b>Архітипи</b></i></td>
         </tr>
             <!-- MavenOwnArchetype_Digitals -->
         <tr>
@@ -131,6 +135,10 @@
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_JavaSE/releases">
                 <img valign="middle" src="https://img.shields.io/badge/-v4.1.0-333333"></a></td>
+        </tr>
+            <!-- Web-проекти -->
+        <tr>
+            <!-- <td name="web" colspan="6"><i><b>Web-проекти</b></i></td> -->
         </tr>
             <!-- Інформаційні та навчальні проекти -->
         <tr>
