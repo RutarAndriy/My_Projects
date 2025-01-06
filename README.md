@@ -42,14 +42,19 @@
     <!-- Тіло таблиці -->
     <tbody align="center">
             <!-- Ігри -->
+        <!--
         <tr>
-            <!-- <td name="games" colspan="6"><i><b>Ігри</b></i></td> -->
+            <td name="games" colspan="6"><i><b>Ігри</b></i></td>
         </tr>
+        -->
             <!-- Програми -->
+        <!--
         <tr>
             <td name="applications" colspan="6"><i><b>Програми</b></i></td>
         </tr>
+        -->
             <!-- Picture_Sorter -->
+        <!--
         <tr>
             <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/Picture_Sorter">Picture_Sorter</a></td>
@@ -58,11 +63,15 @@
             <td><img width="22" valign="middle" title="В розробці" src="/icons/dev.png"></td>
             <td>...</td>
         </tr>
+        -->
             <!-- Бібліотеки -->
+        <!--
         <tr>
             <td name="libraries" colspan="6"><i><b>Бібліотеки</b></i></td>
         </tr>
+        -->
             <!-- JDroppablePanel -->
+        <!--
         <tr>
             <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/JDroppablePanel">JDroppablePanel</a></td>
@@ -72,7 +81,9 @@
             <td><a href="https://github.com/RutarAndriy/JDroppablePanel/releases">
                 <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JDroppablePanel?label=%20&color=333333"></a></td>
         </tr>
+        -->
             <!-- JHintedTextField -->
+        <!--
         <tr>
             <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/JHintedTextField">JHintedTextField</a></td>
@@ -82,7 +93,9 @@
             <td><a href="https://github.com/RutarAndriy/JHintedTextField/releases">
                 <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JHintedTextField?label=%20&color=333333"></a></td>
         </tr>
+        -->
             <!-- JImageView -->
+        <!--
         <tr>
             <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/JImageView">JImageView</a></td>
@@ -91,7 +104,8 @@
             <td><img width="22" valign="middle" title="Бібліотека" src="/icons/lib.png"></td>
             <td><a href="https://github.com/RutarAndriy/JImageView/releases">
                 <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JImageView?label=%20&color=333333"></a></td>
-        </tr>        
+        </tr>
+        -->
             <!-- Архітипи -->
         <tr>
             <td name="archetypes" colspan="6"><i><b>Архітипи</b></i></td>
@@ -101,7 +115,7 @@
             <td><img width="22" valign="middle" title="Приватний проект" src="/icons/lock.png"></td>
             <td align="left"><a href="https://github.com/RutarAndriy/MavenOwnArchetype_Digitals">MavenOwnArchetype<br/>Digitals</a></td>
             <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-            <td align="left">Мій власний архітип для генерування функціональних вікон для dsf-скриптів</td>
+            <td align="left">Мій власний архітип для генерування функціональних вікон до dsf-скриптів</td>
             <td><img width="22" valign="middle" title="Архітип" src="/icons/archetype.png"></td>
             <td><a href="https://github.com/RutarAndriy/MavenOwnArchetype_Digitals/releases">
                 <img valign="middle" src="https://img.shields.io/badge/-v1.0.0-333333"></a></td>
