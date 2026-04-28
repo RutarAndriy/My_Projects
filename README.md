@@ -47,6 +47,15 @@
       <td><img width="22" valign="middle" title="Програма" src="/icons/app.png"></td>
       <td><a href="https://github.com/RutarAndriy/TTool_CTW/releases">
           <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/TTool_CTW?label=%20&color=333333"></a></td>
+    <!-- TTool_Desp -->
+    <tr>
+      <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+      <td align="left"><a href="https://github.com/RutarAndriy/TTool_Desp">TTool_Desp</a></td>
+      <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+      <td align="left">Програма для перекладу гри <a href="https://www.google.com/search?q=Desperados%3A+Wanted+Dead+or+Alive">Desperados: Wanted Dead or Alive</a></td>
+      <td><img width="22" valign="middle" title="Програма" src="/icons/app.png"></td>
+      <td><a href="https://github.com/RutarAndriy/TTool_Desp/releases">
+          <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/TTool_Desp?label=%20&color=333333"></a></td>
     <!-- Бібліотеки -->
     <tr>
       <td name="libraries" colspan="6"><i><b>Бібліотеки</b></i></td>
