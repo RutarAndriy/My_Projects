@@ -114,3 +114,5 @@
     </tr>
   </tbody>
 </table>
+
+Репозиторій містить іконки із сайту [www.fatcow.com](http://www.fatcow.com/free-icons), які надаються під ліцензією [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.uk)
