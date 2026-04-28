@@ -118,6 +118,15 @@
       <td><img width="22" valign="middle" title="JavaBeans-компонент" src="/icons/gui.png"></td>
       <td><a href="https://github.com/RutarAndriy/JDropZonePanel/releases">
           <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JDropZonePanel?label=%20&color=333333"></a></td>
+    <!-- JHintTextField -->
+    <tr>
+      <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+      <td align="left"><a href="https://github.com/RutarAndriy/JHintTextField">JHintTextField</a></td>
+      <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+      <td align="left">Покращений JTextField який може відображати <br> текстову підказку </a></td>
+      <td><img width="22" valign="middle" title="JavaBeans-компонент" src="/icons/gui.png"></td>
+      <td><a href="https://github.com/RutarAndriy/JHintTextField/releases">
+          <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JHintTextField?label=%20&color=333333"></a></td>
     <!-- Web-проекти -->
     <tr>
       <td name="web" colspan="6"><i><b>Web-проекти</b></i></td>
