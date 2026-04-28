@@ -12,6 +12,7 @@
   - UA_Translator
 
 • JavaBeans
+  - JDropZonePanel
 
 • Web-проекти
 

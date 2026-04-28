@@ -109,6 +109,15 @@
     <tr>
       <td name="javabeans" colspan="6"><i><b>JavaBeans-компоненти</b></i></td>
     </tr>
+    <!-- JDropZonePanel -->
+    <tr>
+      <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+      <td align="left"><a href="https://github.com/RutarAndriy/JDropZonePanel">JDropZonePanel</a></td>
+      <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+      <td align="left">Розширена JPanel яка реалізує <br> DragAndDrop-функціонал</a></td>
+      <td><img width="22" valign="middle" title="JavaBeans-компонент" src="/icons/gui.png"></td>
+      <td><a href="https://github.com/RutarAndriy/JDropZonePanel/releases">
+          <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/JDropZonePanel?label=%20&color=333333"></a></td>
     <!-- Web-проекти -->
     <tr>
       <td name="web" colspan="6"><i><b>Web-проекти</b></i></td>
