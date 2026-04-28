@@ -74,6 +74,15 @@
       <td><img width="22" valign="middle" title="Програма" src="/icons/app.png"></td>
       <td><a href="https://github.com/RutarAndriy/TTool_H4/releases">
           <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/TTool_H4?label=%20&color=333333"></a></td>
+    <!-- TTool_TBS -->
+    <tr>
+      <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+      <td align="left"><a href="https://github.com/RutarAndriy/TTool_TBS">TTool_TBS</a></td>
+      <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+      <td align="left">Програма для перекладу серії ігор <br><a href="https://www.google.com/search?q=The+Banner+Saga">The Banner Saga</a></td>
+      <td><img width="22" valign="middle" title="Програма" src="/icons/app.png"></td>
+      <td><a href="https://github.com/RutarAndriy/TTool_TBS/releases">
+          <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/TTool_TBS?label=%20&color=333333"></a></td>
     <!-- Бібліотеки -->
     <tr>
       <td name="libraries" colspan="6"><i><b>Бібліотеки</b></i></td>
