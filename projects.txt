@@ -9,6 +9,7 @@
   - TTool_xApoc
 
 • Бібліотеки
+  - UA_Translator
 
 • JavaBeans
 

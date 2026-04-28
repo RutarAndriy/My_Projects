@@ -96,6 +96,15 @@
     <tr>
       <td name="libraries" colspan="6"><i><b>Бібліотеки</b></i></td>
     </tr>
+    <!-- UA_Translator -->
+    <tr>
+      <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+      <td align="left"><a href="https://github.com/RutarAndriy/UA_Translator">UA_Translator</a></td>
+      <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+      <td align="left">Бібліотека для української локалізації стандартних swing-компонентів</a></td>
+      <td><img width="22" valign="middle" title="Бібліотека" src="/icons/lib.png"></td>
+      <td><a href="https://github.com/RutarAndriy/UA_Translator/releases">
+          <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/UA_Translator?label=%20&color=333333"></a></td>
     <!-- JavaBeans-компоненти -->
     <tr>
       <td name="javabeans" colspan="6"><i><b>JavaBeans-компоненти</b></i></td>
