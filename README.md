@@ -4,7 +4,7 @@
 
 ## Категорії проектів
 
-| Стан | Короткий опис |
+| Тип | Короткий опис |
 | :-:  |      ---      |
 | <a href="#games"><img width="22" valign="middle" title="Гра" src="/icons/game.png"></a> | Гра. Доступна релізна версія |
 | <a href="#applications"><img width="22" valign="middle" title="Програма" src="/icons/app.png"></a> | Програма. Доступна релізна версія |
@@ -43,7 +43,7 @@
       <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
       <td align="left"><a href="https://github.com/RutarAndriy/TTool_CTW">TTool_CTW</a></td>
       <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-      <td align="left">Програма для перекладу гри <a href="https://www.google.com/search?q=Craft+The+World">Craft the World</a></td>
+      <td align="left">Програма для перекладу гри <br><a href="https://www.google.com/search?q=Craft+The+World">Craft the World</a></td>
       <td><img width="22" valign="middle" title="Програма" src="/icons/app.png"></td>
       <td><a href="https://github.com/RutarAndriy/TTool_CTW/releases">
           <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/TTool_CTW?label=%20&color=333333"></a></td>
@@ -52,7 +52,7 @@
       <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
       <td align="left"><a href="https://github.com/RutarAndriy/TTool_Desp">TTool_Desp</a></td>
       <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-      <td align="left">Програма для перекладу гри <a href="https://www.google.com/search?q=Desperados%3A+Wanted+Dead+or+Alive">Desperados: Wanted Dead or Alive</a></td>
+      <td align="left">Програма для перекладу гри <br><a href="https://www.google.com/search?q=Desperados%3A+Wanted+Dead+or+Alive">Desperados: Wanted Dead or Alive</a></td>
       <td><img width="22" valign="middle" title="Програма" src="/icons/app.png"></td>
       <td><a href="https://github.com/RutarAndriy/TTool_Desp/releases">
           <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/TTool_Desp?label=%20&color=333333"></a></td>
@@ -61,10 +61,19 @@
       <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
       <td align="left"><a href="https://github.com/RutarAndriy/TTool_DK2">TTool_DK2</a></td>
       <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
-      <td align="left">Програма для перекладу гри <a href="https://www.google.com/search?q=Dungeon+Keeper+2">Dungeon Keeper 2</a></td>
+      <td align="left">Програма для перекладу гри <br><a href="https://www.google.com/search?q=Dungeon+Keeper+2">Dungeon Keeper 2</a></td>
       <td><img width="22" valign="middle" title="Програма" src="/icons/app.png"></td>
       <td><a href="https://github.com/RutarAndriy/TTool_DK2/releases">
           <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/TTool_DK2?label=%20&color=333333"></a></td>
+    <!-- TTool_H4 -->
+    <tr>
+      <td><img width="22" valign="middle" title="Публічний проект" src="/icons/unlock.png"></td>
+      <td align="left"><a href="https://github.com/RutarAndriy/TTool_H4">TTool_H4</a></td>
+      <td><img valign="middle" src="https://img.shields.io/badge/-java-B07219"></td>
+      <td align="left">Програма для перекладу гри <br><a href="https://www.google.com/search?q=Heroes+of+Might+and+Magic+IV">Heroes of Might and Magic IV</a></td>
+      <td><img width="22" valign="middle" title="Програма" src="/icons/app.png"></td>
+      <td><a href="https://github.com/RutarAndriy/TTool_H4/releases">
+          <img valign="middle" src="https://img.shields.io/github/v/release/RutarAndriy/TTool_H4?label=%20&color=333333"></a></td>
     <!-- Бібліотеки -->
     <tr>
       <td name="libraries" colspan="6"><i><b>Бібліотеки</b></i></td>
